@@ -48,7 +48,6 @@ Boruta==0.4.3
 boto3==1.37.29
 botocore==1.37.29
 Bottleneck==1.4.2
--e git+https://github.com/SohierDane/BigQuery_Helper@8615a7f6c1663e7f2d48aa2b32c2dbcb600a440f#egg=bq_helper
 bqplot==0.12.44
 branca==0.8.1
 CacheControl==0.14.2
@@ -217,7 +216,6 @@ google-cloud-storage==2.14.0
 google-cloud-translate==3.12.1
 google-cloud-videointelligence==2.16.1
 google-cloud-vision==3.10.1
-google-colab @ file:///colabtools/dist/google_colab-1.0.0.tar.gz
 google-crc32c==1.6.0
 google-genai==0.8.0
 google-generativeai==0.8.4
@@ -366,7 +364,6 @@ libraft-cu12==25.2.0
 librosa==0.10.2.post1
 libucx-cu12==1.18.0
 libucxx-cu12==0.42.0
-lightgbm @ file:///tmp/lightgbm/lightgbm-4.6.0-py3-none-linux_x86_64.whl
 lightning-utilities==0.14.3
 lime==0.2.0.1
 line_profiler==4.2.0
@@ -633,7 +630,7 @@ rfc3339-validator==0.1.4
 rfc3986-validator==0.1.1
 rfc8785==0.1.4
 rgf-python==3.12.0
-rich==14.0.0
+rich
 rmm-cu12==25.2.0
 rpds-py==0.22.3
 rpy2==3.4.2
